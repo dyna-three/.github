@@ -13,5 +13,3 @@ Hi There!👋 We are the Dyna-Three. We are Engineering Undergrad passouts of Ro
 * [3RRR Robot](#) ⚠️ Thesis paper waiting to be published
 * [Obstacle Detecting Car "Oddie"](https://github.com/dyna-three/Oddie) 
 
-### Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyna-three&layout=compact&hide-border=true&theme=dracula">
